@@ -1,0 +1,35 @@
+
+#heading{
+  text-align: center;
+}
+
+#inputside{
+  background-color: aqua;
+  text-align: center;
+  margin: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+}
+
+
+#outputside-div{
+  background-color: aqua;
+  text-align: center;
+  margin: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+}
+
+#button{
+  text-align: center;
+  background-color: yellow;
+  margin: 1em;
+  padding : 1em ; 
+
+}
